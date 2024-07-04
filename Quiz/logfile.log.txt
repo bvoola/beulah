@@ -1,0 +1,79 @@
+2024-03-01 17:53:30,301 - INFO - -----Start-----
+2024-03-01 17:53:30,529 - INFO - Subtraction below 12
+2024-03-01 17:53:30,529 - INFO - SubtractionBelow12
+2024-03-01 17:55:24,561 - INFO - You have answered 2 out of 4 - So you got 50 %
+2024-03-01 17:55:24,563 - INFO - Wrong Answers List
+11-7=6
+10-9=9
+
+2024-03-01 17:55:24,719 - INFO - Time taken is 114seconds
+2024-03-01 17:55:24,724 - INFO - Average time taken to answer28.5seconds
+2024-03-01 17:55:24,732 - INFO - ------End------
+2024-03-12 17:05:00,842 - INFO - -----Start-----
+2024-03-12 17:05:01,680 - INFO - MultiplicationBelow10
+2024-03-12 17:21:18,974 - INFO - You have answered 86 out of 100 - So you got 86 %
+2024-03-12 17:21:18,975 - INFO - Very Good Job !
+2024-03-12 17:21:18,985 - INFO - Wrong Answers List
+10*5=25
+7*7=21
+3*6=
+5*3=
+8*7=
+6*7=
+6*2=18
+4*5=25
+9*9=18
+3*5=115
+7*5=37
+8*3=21
+8*2=24
+6*6=35
+
+2024-03-12 17:21:18,989 - INFO - Time taken is 977seconds
+2024-03-12 17:21:18,992 - INFO - Average time taken to answer9.77seconds
+2024-03-12 17:21:18,995 - INFO - ------End------
+2024-03-13 09:02:20,108 - INFO - -----Start-----
+2024-03-13 09:02:20,577 - INFO - Subtraction below 12
+2024-03-13 09:02:20,578 - INFO - SubtractionBelow20
+2024-03-13 09:20:43,311 - INFO - You have answered 78 out of 100 - So you got 78 %
+2024-03-13 09:20:43,312 - INFO - Okay ! All the best - Good try !
+2024-03-13 09:20:43,317 - INFO - Wrong Answers List
+16 - 13=13
+20 - 11=1
+20 - 3=18
+20 - 15=15
+15 - 11=10
+11 - 5=5
+17 - 13=14
+15 - 11=10
+14 - 6=18
+18 - 4=4
+14 - 8=16
+16 - 4=2
+20 - 13=17
+14 - 13=11
+4 - 1=
+15 - 2=3
+13 - 7=16
+14 - 4=2
+20 - 9=1
+16 - 2=4
+20 - 18=7
+14 - 2=2
+
+2024-03-13 09:20:43,320 - INFO - Time taken is 1103seconds
+2024-03-13 09:20:43,324 - INFO - Average time taken to answer11.03seconds
+2024-03-13 09:20:43,328 - INFO - ------End------
+2024-03-13 09:24:25,344 - INFO - -----Start-----
+2024-03-13 09:24:25,491 - INFO - Subtraction below 12
+2024-03-13 09:24:25,492 - INFO - SubtractionBelow15
+2024-03-13 09:35:32,454 - INFO - You have answered 97 out of 100 - So you got 97 %
+2024-03-13 09:35:32,454 - INFO - Excellent !
+2024-03-13 09:35:33,233 - INFO - Wrong Answers List
+13-9=5
+14-2=2
+15-14=11
+
+2024-03-13 09:35:33,240 - INFO - Time taken is 668seconds
+2024-03-13 09:35:33,293 - INFO - Average time taken to answer6.68seconds
+2024-03-13 09:35:33,299 - INFO - ------End------
